@@ -1,0 +1,173 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Ivor Bosloper ( Kalooga )
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Kalooga 0.2\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/kalooga\n"
+"POT-Creation-Date: 2009-08-27 17:27+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: kalooga-dashboard.php:50
+msgid ""
+"Enrich your posts/pages with kalooga widgets! <br />The Kalooga plugin "
+"enables you to integrate visual search widgets from <a href=\"http://www."
+"kalooga.com/\">kalooga</a>. "
+msgstr ""
+
+#: kalooga-dashboard.php:52
+msgid ""
+"Currently, a Kalooga widget is configured with an advanced configuration."
+msgstr ""
+
+#: kalooga-dashboard.php:54
+#, php-format
+msgid ""
+"Currently, a Kalooga widget is configured with query <i>&quot;%s&quot;</i>."
+msgstr ""
+
+#: kalooga-dashboard.php:56
+msgid ""
+"You can configure a Kalooga widget under <a href=\"widgets.php\">Appearance-"
+"&gt;Widgets</a>."
+msgstr ""
+
+#: kalooga-dashboard.php:62
+#, php-format
+msgid "You've created one article with a Kalooga widget."
+msgid_plural "You've created %d articles with a Kalooga widget."
+msgstr[0] ""
+msgstr[1] ""
+
+#: kalooga-dashboard.php:67
+#, php-format
+msgid "The last kalooga post is"
+msgid_plural "The last %d posts with a Kalooga Widget are"
+msgstr[0] ""
+msgstr[1] ""
+
+#: kalooga-meta.php:51
+msgid "Add a Kalooga widget to this post."
+msgstr ""
+
+#: kalooga-meta.php:53 kalooga-sidebar.php:142
+msgid "Configure custom widget"
+msgstr ""
+
+#: kalooga-meta.php:59
+msgid "Switch back to simple query"
+msgstr ""
+
+#: kalooga-meta.php:64 kalooga-sidebar.php:124 kalooga-sidebar.php:130
+msgid "Query"
+msgstr ""
+
+#: kalooga-meta.php:68
+msgid "Show example"
+msgstr ""
+
+#: kalooga.php:127
+msgid "Kalooga options"
+msgstr ""
+
+#: kalooga.php:128
+msgid ""
+"This is the advanced configuration tab for Kalooga widgets. Leave these "
+"fields empty to use the plugin in basic mode. In basic mode, the sidebar "
+"widget is a 190x225 pixels <i>iCatcher</i> widget with 3x3 thumbnails. The "
+"kalooga widget that goes with your posts is a 400x83 pixels <i>photostring</"
+"i> widget with 8 thumbnails."
+msgstr ""
+
+#: kalooga.php:129
+msgid ""
+"For custom widgets (other dimensions, colors or types), for which you can "
+"optimize your search results, please take the following steps:"
+msgstr ""
+
+#: kalooga.php:131
+msgid "Create an account"
+msgstr ""
+
+#: kalooga.php:132
+#, php-format
+msgid ""
+"Create a new widget in the <a href=\"%s\">publisher tool</a> (e.g. "
+"<i>widgets-&gt;new gallery</i>). Grab the widget id from the url."
+msgstr ""
+
+#: kalooga.php:133
+#, php-format
+msgid ""
+"You can read your API key & account id at <a href=\"%s\">options</a>-&gt;Get "
+"API key"
+msgstr ""
+
+#: kalooga.php:134
+msgid "Fill out these details in the form below, and press Save."
+msgstr ""
+
+#: kalooga.php:135
+msgid ""
+"Then, you will have an <input class=\"button-primary\" type=\"submit\" value="
+"\"Advanced\" /> or <i>Custom</i> option when creating widgets."
+msgstr ""
+
+#: kalooga.php:146
+msgid "Save"
+msgstr ""
+
+#: kalooga.php:150
+msgid "Update Succesful"
+msgstr ""
+
+#: kalooga-sidebar.php:114
+msgid "Simple"
+msgstr ""
+
+#: kalooga-sidebar.php:117
+msgid "Advanced"
+msgstr ""
+
+#: kalooga-sidebar.php:128
+msgid "Advanced configuration"
+msgstr ""
+
+#: kalooga-sidebar.php:132
+msgid "Please configure"
+msgstr ""
+
+#: kalooga-sidebar.php:144
+msgid "Press Save if you're done!"
+msgstr ""
+
+#. Plugin Name of an extension
+msgid "Kalooga"
+msgstr ""
+
+#. Plugin URI of an extension
+msgid "http://integration.kalooga.com/wordpress/"
+msgstr ""
+
+#. Description of an extension
+msgid ""
+"The Kalooga plugin enables you to integrate visual search widgets from "
+"kalooga.com"
+msgstr ""
+
+#. Author of an extension
+msgid "Ivor Bosloper ( Kalooga )"
+msgstr ""
+
+#. Author URI of an extension
+msgid "http://www.kalooga.com/"
+msgstr ""

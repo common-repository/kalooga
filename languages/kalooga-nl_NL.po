@@ -1,0 +1,160 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kalooga\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/kalooga\n"
+"POT-Creation-Date: 2009-08-27 13:50+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Kalooga <publisher@kalooga.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Dutch\n"
+"X-Poedit-Country: NETHERLANDS\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: kalooga.php:26
+msgid "Kalooga Configuration"
+msgstr "Kalooga Voorkeuren"
+
+#: popup_kalooga.php:18
+msgid "Kalooga Widget Dialog"
+msgstr "Kalooga Widget Voorkeuren"
+
+#: popup_kalooga.php:34
+msgid "Advanced mode"
+msgstr "Geavanceerde modus"
+
+#: popup_kalooga.php:37
+msgid "Welcome, If you want to customize your widgets to make them look beter on your website, please click on 'advanced mode' and sign up as a publisher.<ol><li>Fill in a keyword and click on \"preview\".</li><li>Previews of photo galleries, relevant to the keyword, are shown default in a so-called \"photostring\" (a horizontal banner or widget, width 400 pixels and hight 113 pixels).</li><li>Select \"widget type\", you can choose from:<ul><li>Photostring (default)</li><li>3x3 (h 159, w 250)</li><li>4x2 (h 150, w 200)</li></ul></li><li>Click on \"Send\" en the banner/widget displayed on your article.</li></ol>"
+msgstr "Welkom, wanneer u de widgets nog beter wilt laten aansluiten op uw site, klik dan op 'geavanceerde modus' en meld u aan als publisher.<ol><li>Vul een \"zoekterm\" in en klik op \"voorbeeld\".</li><li>Er worden automatisch een aantal bij deze zoekterm passende voorvertoningen van fotoverzamelingen getoond in een zogenaamde \"photostring\" (een horizontale banner van 400 pixels breed en 113 pixels hoog).</li><li>Selecteer een \"widget type\", u kunt kiezen uit:<ul><li>Photostring (standaard)</li><li>3x3 (h 150, w 200)</li><li>4x2 (h 159,w 250)</li></ul></li><li>Klik op \"verstuur\" en deze widget wordt in uw artikel bij de tekst geplaatst.</li></ol>"
+
+#: popup_kalooga.php
+msgid "Tips:<ul><li>Try more  and several keywords to get the right photo gallery preview;</li><li>Go to <a href=\"%s\" target=\"_BLANK\">www.kalooga.com</a>, and discover millions of photo galleries.</li></ul>"
+msgstr "Tips:<ul><li>Probeer meerdere zoektermen uit om de juiste voorvertoning van de fotoverzameling te krijgen;</li><li>Ga naar <a href=\"%s\" target=\"_BLANK\">www.kalooga.com</a>, en ontdek miljoenen fotoverzamelingen!</li></ul>"
+
+#: popup_kalooga.php:44
+msgid "Widget type"
+msgstr "Widget type"
+
+#: popup_kalooga.php:46
+msgid "Keyword"
+msgstr "Zoek woord"
+
+#: popup_kalooga.php:55
+msgid "Simple mode"
+msgstr "Simpele modus"
+
+#: popup_kalooga.php:56
+msgid "If you want more functionality, for example;<ol><li>You want to make your own selection of previews to be show non the page;</li><li>You want a different display of your widget/banner (shape, colour, size);</li><li>Managing all your Kalooga widgets on your website in one place;</li></ol>Then you'll need:<ol><li>Your 'Publisher ID' (3 or 4 numbers)</li><li>Your 'API key' (a string of numbers and characters, f.e. 02c0b7a01895b7c622845c4c65ced385)</li></ol>You'll get these as soon as you're registered as a publisher.<br /><dl><dt>Step 1:</dt><dd>If you <a href='%s' target='_BLANK'>click here</a>, you'll go to the publisher application of Kalooga and register yourself as publisher (follow the instructions on your screen or <a href='%s' target='_BLANK'>download the manual here</a>).</dd><dt>Step 2:</dt><dd>Log in to the publisher, make your channels and widgets (see chapter 3 of the user manual).</dd><dt>Step 4:</dt><dd>As soon as you've finished the registration process, go to 'options' and click on the tab 'Get API key'. You'll find your 'API key' and your 'Publisher ID'. Remember your 'Publisher ID' and copy your 'API key' (select and ctrl+c)</dd>"
+msgstr "Als u meer mogelijkheden wilt, bijvoorbeeld;<ol><li>Zelf een keuze wilt maken uit de voorvertoningen van fotoverzamelingen die u op uw pagina wilt tonen;</li><li>Een andere verschijningsvorm van de widget wilt (vorm,grootte,kleur);</li><li>Vanuit een plek meerdere Kalooga banners/widgets op uw website wilt managen;</li></ol>Dan heeft u de volgende gegevens nodig:<ol><li>Uw 'Publisher ID' (3 of 4 cijfers)</li><li>Uw 'API Key' (bestaande uit cijfers en letters, bv. 02c0b7a01895b7c622845c4c65ced385)</li></ol>Deze gegevens krijgt u zodra u zich als publisher heeft geregistreerd.<br /><dl><dt>Stap 1:</dt><dd>Als u <a href=\"%s\" target=\"_BLANK\">hier</a> klikt, gaat u naar de publisher van Kalooga en meldt u aan als publisher (volg de instructies op het scherm of klik <a href='%s' target='_BLANK'>hier</a> voor de gebruikershandleiding).</dd><dt>Stap 2:</dt><dd>Log in en maak hier uw kanalen en widgets aan (zie hoofdstuk 3 van de gebruikershandleiding)</dd><dt>Stap 3:</dt><dd>Zodra u zich heeft geregistreerd, kunt u uw 'publisher ID' en uw 'API sleutel' vinden onder 'Opties' > tabblad 'API key'. Onthoud uw 'publisher ID' en kopieer uw 'API sleutel' (selecteren en vervolgens ctrl+C).</dd>"
+
+#: popup_kalooga.php:57
+msgid "<dt>Step 4:</dt><dd>Go to your Wordpress dashboard to 'configuration' and click on 'Kalooga'. Paste your 'API key' and fill in your 'Publisher ID'. Click on 'Save'.</dd><dt>Step 5:</dt><dd>When you click on the Kalooga icon within your WYSIWYG-editor, you'll be able to use the 'advanced mode' to.</dd><dt>Step 6:</dt><dd>Select your created widgets to place them in your blog post.</dd></dl>"
+msgstr "<dt>Stap 4:</dt><dd>Ga op uw Wordpress dashboard naar 'instellingen' en klik op 'Kalooga'. Plak de 'API sleutel' in het desbetreffende veld (ctrl+v) en vul uw publisher ID in. Klik op 'opslaan'.</dd><dt>Stap 5:</dt><dd>Wanneer u nu in de WYSIWYG-editor op het 'Kalooga-icoon' klikt kunt u nu de advanced mode gebruiken.</dd><dt>Stap 6:</dt><dd>Selecteer een aangemaakte widget voor plaatsing in uw blog post.</dd></dl>"
+
+#: popup_kalooga.php:54
+msgid "<ol><li>Select your widget and click 'configure'.</li><li>You are now being send to a page of Kalooga, type your keyword and make a selection of albums you want to see in your widget.</li><li>Click 'save', close the page and go back to the current page and click on 'preview'.</li><li>Click on 'send' and the banner/widget is displayed on your article.</li></ol>"
+msgstr "<ol><li>Selecteer uw widget en klik op 'configureer'.</li><li>U wordt nu doorgestuurd naar een pagina van Kalooga, typ uw zoekwoord en maak een selectie van albums die u wilt zien in uw widget.</li><li>Klik 'opslaan', sluit de pagina, ga terug naar de huidige pagina en klik op 'voorbeeld'.</li><li>Klik op 'verstuur' en de banner/widget wordt weergegeven in uw artikel</li></ol>"
+
+#: popup_kalooga.php
+msgid "<ol><li>Select your widget and click 'Preview'</li><li>Do you want to customize the widget?<ol><li>Click 'customize this widget', a new page will be openend.</li><li>Fill in your custom query and select the images you want to display.</li><li>Close the popup and click 'refresh'.</li></ol></li><li>Click the 'Add to post' button.</li></ol><br />Do you want more widgets? Login to the <a href=\"%s\" target=\"_BLANK\">Kalooga publisher</a> and make hundreds of them!"
+msgstr "<ol><li>Selecteer uw widget en klik op 'Voorbeeld'</li><li>Wilt u de widget customizen?<ol><li>Klik 'customize deze widget', er wordt een nieuwe pagina geopend.</li><li>Voer een nieuwe query in en selecteer de afbeeldingen die u wilt weergeven.</li><li>Sluit de popup en klik op 'vernieuwen'.</li></ol></li><li>Klik op 'Toevoegen'</li></ol><br />Wilt u meer widgets? Login op de <a href=\"%s\" target=\"_BLANK\">Kalooga publisher</a> en maak er honderden!"
+
+#: popup_kalooga.php:57
+msgid "Widget"
+msgstr "Widget"
+
+#: popup_kalooga.php:62
+msgid "Configure"
+msgstr "Configureer"
+
+#: popup_kalooga.php:69
+msgid "Preview"
+msgstr "Voorbeeld"
+
+#: popup_kalooga.php:70
+msgid "Add to post"
+msgstr "Toevoegen"
+
+#: popup_kalooga.php
+msgid "Customize this widget"
+msgstr "Customize deze widget"
+
+#: popup_kalooga.php
+msgid "Refresh"
+msgstr "Vernieuwen"
+
+#: kalooga_config.php:23
+msgid "Kalooga API Key updated successfully."
+msgstr "Kalooga API sleutel succesvol geupdate."
+
+#: kalooga_config.php:28
+msgid "Kalooga configuration"
+msgstr "Kalooga configuratie"
+
+#: kalooga_config.php:29
+msgid "This is the advanced configuration tab for Kalooga widgets. Leave these field empty to use the plugin in basic mode."
+msgstr "Dit is het geavanceerde configuratie tabblad voor Kalooga widgets. Laat deze velden leeg om de plugin in basisstand te gebruiken."
+
+#: kalooga_config.php:30
+msgid " In basic mode, the sidebar widget is a 190x225 pixels <i>iCatcher</i> widget with 3x3 thumbnails. The kalooga widget that goes with your posts is a 400x83 pixels <i>photostring</i> widget with 8 thumbnails."
+msgstr " Hierbij is de zijbalk widget een 190x225 pixels <i>iCatcher</i> widget met 3x3 foto's. De kalooga widget die bij je blogpost gebruikt wordt is standaard een 400x83 pixels <i>photostring</i> widget met 8 foto's."
+
+#: kalooga_config.php:31
+msgid "For custom widgets (other dimensions, colors or types), for which you can optimize your search results, please take the following steps:"
+msgstr "Met eigengemaakte widgets kun je de grootte, kleur en type instellen. Ook kun je je zoekresultaten verbeteren. Dit werkt als volgt:"
+
+#: kalooga_config.php:33
+msgid "<a href=\"%s\" target=\"_BLANK\">Create an account</a> and follow the instructions or <a href=\"%s\" target=\"_BLANK\">download the manual here</a>."
+msgstr "<a href=\"%s\" target=\"_BLANK\">Maak een account</a> en volg de instructies of <a href=\"%s\" target=\"_BLANK\">download de handleiding hier</a>."
+
+#: kalooga_config.php:34
+msgid "Create a new widget in the <a href=\"%s\" target=\"_BLANK\">publisher tool</a> (e.g. <i>widgets-&gt;new gallery</i>)."
+msgstr "Maak een nieuwe widget in de <a href=\"%s\">publisher tool</a> (bijvoorbeeld <i>widgets-&gt;new gallery</i>)."
+
+#: kalooga_config.php:35
+#, php-format
+msgid "Get your API Key and Publisher ID, in the <a href=\"%s\" target=\"_BLANK\">publisher tool</a> go to \"options\" and click on the tab \"Get API key\". You'll find your \"API key\" and your \"Publisher ID\". "
+msgstr "Haal uw API Key en Publisher ID, in de <a href=\"%s\" target=\"_BLANK\">publisher tool</a> ga naar \"opties\" en klik op de tab genaamd \"Get API key\". Hier vindt u uw \"API Key\" en uw \"Publisher ID\". "
+
+#: kalooga_config.php:36
+msgid "Fill out these details in the form below, and press Save."
+msgstr "Vul de gegevens in en druk op Opslaan."
+
+#: kalooga_config.php:37
+msgid "When you click on the Kalooga icon within your WYSIWYG-editor, you'll be able to use the 'advanced mode' to. "
+msgstr "Wanneer u in uw WYSIWYG-editor het Kalooga icoontje aanklikt, kunt u ook de 'advanced mode' gebruiken. "
+
+#: kalooga_config.php:45
+msgid "API Key"
+msgstr "API Sleutel"
+
+#: kalooga_config.php:53
+msgid "Save"
+msgstr "Opslaan"
+
+#: kalooga.php:151
+msgid "Update Succesful"
+msgstr "Update gelukt"
+
+#. Plugin Name of an extension
+msgid "Kalooga"
+msgstr "Kalooga"
+
+#. Plugin URI of an extension
+msgid "http://integration.kalooga.com/wordpress/"
+msgstr "http://integration.kalooga.com/wordpress/"
+
+#. Description of an extension
+msgid "The Kalooga plugin enables you to integrate visual search widgets from kalooga.com"
+msgstr "The Kalooga plugin enables you to integrate visual search widgets from kalooga.com"
+
+#. Author of an extension
+msgid "Ivor Bosloper ( Kalooga )"
+msgstr "Ivor Bosloper ( Kalooga )"
+
+#. Author URI of an extension
+msgid "http://www.kalooga.com/"
+msgstr "http://www.kalooga.nl/"
+
